@@ -2,7 +2,8 @@
 
 A robust Python scraper that collects product data (Title, Price, Links,page) from Amazon search results using Playwright. It handles dynamic content, pagination, and exports data to both CSV and Excel formats.
 
-Preview:![/data.png]
+# Preview:
+![Scraped Data in EXCEL (/data.png)]
 
 ## Features
 - 🚀 **Dynamic Scraping**: Uses Playwright to render JavaScript-heavy pages.
