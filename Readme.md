@@ -27,7 +27,8 @@ A robust Python scraper that collects product data (Title, Price, Links,page) fr
   playwright install
 
 **Usage**
-Run the script:python basic.py
+Run the script:
+python basic.py
 
 
 Follow the interactive prompts:
